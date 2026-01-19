@@ -39,6 +39,3 @@ Cohort tables were derived based on the customer’s first purchase month.
 - DAX
 - SQL (for data preparation logic)
 - Excel / CSV
-
-## Outcome
-The dashboard provides clear visibility into customer retention behavior and highlights opportunities to improve repeat purchases and long-term value.
