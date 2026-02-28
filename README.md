@@ -13,7 +13,7 @@ The dataset contains e-commerce order-level data including:
 
 Cohort tables were derived based on the customer’s first purchase month.
 
-## Key Metrics
+### Key Metrics
 - Total Customers
 - Total Orders
 - Total Revenue
