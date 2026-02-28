@@ -1,6 +1,6 @@
 # E-Commerce Customer & Cohort Analytics
 
-## Objective
+### Objective
 Analyze customer behavior using cohort analysis to understand retention, churn, repeat purchases, and customer lifetime value (CLV).
 
 ## Dataset Overview
