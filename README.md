@@ -34,7 +34,7 @@ Cohort tables were derived based on the customer’s first purchase month.
 - Customer type contribution (Repeat vs One-Time)
 - Interactive slicers (Month, Cohort Month)
 
-## Tools Used
+### Tools Used
 - Power BI
 - DAX
 - SQL (for data preparation logic)
