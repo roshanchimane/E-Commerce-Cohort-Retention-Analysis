@@ -1,4 +1,4 @@
-# Key Insights & Business Takeaways
+## Key Insights & Business Takeaways
 
 ### Customer Retention
 - Month 1 retention is ~33–42%, indicating a significant drop after the first purchase.
