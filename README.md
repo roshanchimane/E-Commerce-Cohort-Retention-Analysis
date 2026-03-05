@@ -3,7 +3,7 @@
 ### Objective
 Analyze customer behavior using cohort analysis to understand retention, churn, repeat purchases, and customer lifetime value (CLV).
 
-### Dataset Overview
+### - Dataset Overview
 The dataset contains e-commerce order-level data including:
 - Customer ID
 - Order ID
