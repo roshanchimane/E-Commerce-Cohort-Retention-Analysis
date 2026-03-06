@@ -30,7 +30,6 @@ select customer_id,first_order,cohort_month
 from customers
 limit 10;
 
-
 -- Cohort Retention Analysis
 
 CREATE VIEW cohort_data AS
