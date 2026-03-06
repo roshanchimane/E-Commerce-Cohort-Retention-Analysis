@@ -78,7 +78,6 @@ JOIN cohort_sizes cs
 	ON cc.cohort_month=cs.cohort_month
 ORDER BY cc.cohort_month,cc.cohort_index;
 
-
 -- Repeat vs One-Time Buyers
 SELECT
 	CASE
