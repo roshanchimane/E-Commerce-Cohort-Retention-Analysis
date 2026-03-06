@@ -8,7 +8,6 @@ CREATE TABLE orders (
     order_value DECIMAL(10,2)
 );
 
-
 -- creating tables
 CREATE TABLE customers AS
 SELECT customer_id,
