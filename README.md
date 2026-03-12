@@ -26,7 +26,7 @@ The dataset contains e-commerce order-level data including:
 - Retention is tracked using a **cohort index** (months since first purchase)
 - Retention % = Active customers in month N / Cohort size
 
-### Dashboard Features
+#### Dashboard Features
 - KPI cards for business metrics
 - Cohort retention matrix
 - Retention trend by cohort index
