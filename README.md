@@ -21,7 +21,7 @@ The dataset contains e-commerce order-level data including:
 - Month 1 Retention
 - Monthly Churn Rate
 
-### Cohort Analysis Methodology
+###  Cohort Analysis Methodology
 - Customers are grouped into cohorts by **first purchase month**
 - Retention is tracked using a **cohort index** (months since first purchase)
 - Retention % = Active customers in month N / Cohort size
