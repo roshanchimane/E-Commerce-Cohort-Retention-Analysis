@@ -10,7 +10,7 @@ The dataset contains e-commerce order-level data including:
 - Order Date
 - Order Value
 - Customer Type (One-Time / Repeat Buyer)
-
+  
 - ### Cohort tables were derived based on the customer’s first purchase month.
 
 ### Key Metrics
