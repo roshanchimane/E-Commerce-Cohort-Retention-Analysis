@@ -7,7 +7,7 @@ Analyze customer behavior using cohort analysis to understand retention, churn, 
 The dataset contains e-commerce order-level data including:
 - Customer ID
 - Order ID
-- Order Date
+- Order Date 
 - Order Value
 - Customer Type (One-Time / Repeat Buyer)
   
