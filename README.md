@@ -15,7 +15,7 @@ The dataset contains e-commerce order-level data including:
 
 ### Key Metrics
 - Total Customers
-- Total Orders
+- Total Orders 
 - Total Revenue
 - Average CLV
 - Month 1 Retention
